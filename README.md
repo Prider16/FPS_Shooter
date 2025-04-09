@@ -18,23 +18,24 @@
 **Character movements with gun**
 
 
-https://github.com/user-attachments/assets/4167a4f6-2105-43aa-b51c-e486f591f553
+https://github.com/user-attachments/assets/eba5f16d-b9ac-489e-a46b-91a366f974d5
 
 
 **Fiering animations and realtime updating HUD**
 
 
-https://github.com/user-attachments/assets/b134bc4a-73b4-405d-93dc-97fd698472d9
+https://github.com/user-attachments/assets/97b2a7ad-a7df-45b8-9a69-03401a8fc01e
 
 
 **Procedual Movement**
 
 
-https://github.com/user-attachments/assets/f04709f1-9c5a-4887-81ad-fcbc89553848
+https://github.com/user-attachments/assets/472c5f8c-b332-4d13-8321-f28b7d95d7b2
 
 
 **Detailed Blueprint Codes**
-![image](https://github.com/user-attachments/assets/d0be9617-4b22-4493-b0ab-41212febef92)
+![image](https://github.com/user-attachments/assets/bf7aa80b-0208-4c45-8e17-7b6553eceecc)
+
 
 ---
 
